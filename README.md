@@ -8,7 +8,7 @@
 
 # Test
 
-![image](https://user-images.githubusercontent.com/55363641/116956491-c5815e00-ac6b-11eb-80eb-875b5b33e196.png)
+![image](https://user-images.githubusercontent.com/55363641/116956569-f2357580-ac6b-11eb-943c-0374ca508ed3.png)
 
 # View Queues
 
